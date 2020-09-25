@@ -1,0 +1,246 @@
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\nunit.engine.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\ProductTest.deps.json
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\ProductTest.runtimeconfig.json
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\ProductTest.runtimeconfig.dev.json
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\ProductTest.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\testhost.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\nunit.framework.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\obj\Debug\netcoreapp3.1\ProductTest.csprojAssemblyReference.cache
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\obj\Debug\netcoreapp3.1\ProductTest.AssemblyInfoInputs.cache
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\obj\Debug\netcoreapp3.1\ProductTest.AssemblyInfo.cs
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\obj\Debug\netcoreapp3.1\ProductTest.csproj.CopyComplete
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\obj\Debug\netcoreapp3.1\ProductTest.genruntimeconfig.cache
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\log4net.config
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\appsettings.json
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Product.exe
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\ProductTest.pdb
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Castle.Core.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\log4net.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Moq.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Product.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\bin\Debug\netcoreapp3.1\Product.pdb
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\obj\Debug\netcoreapp3.1\ProductTest.csproj.CoreCompileInputs.cache
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\obj\Debug\netcoreapp3.1\ProductTest.dll
+G:\visual studio\CTS MFPE Project V1\Test\ProductTest\obj\Debug\netcoreapp3.1\ProductTest.pdb
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\obj\Debug\netcoreapp3.1\ProductTest.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\obj\Debug\netcoreapp3.1\ProductTest.pdb
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\obj\Debug\netcoreapp3.1\ProductTest.csprojAssemblyReference.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\obj\Debug\netcoreapp3.1\ProductTest.AssemblyInfoInputs.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\obj\Debug\netcoreapp3.1\ProductTest.AssemblyInfo.cs
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\obj\Debug\netcoreapp3.1\ProductTest.csproj.CoreCompileInputs.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\log4net.config
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\appsettings.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Product.exe
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\nunit.engine.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\ProductTest.deps.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\ProductTest.runtimeconfig.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\ProductTest.runtimeconfig.dev.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\ProductTest.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\ProductTest.pdb
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Castle.Core.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\log4net.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\testhost.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Moq.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\nunit.framework.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Product.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\bin\Debug\netcoreapp3.1\Product.pdb
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\obj\Debug\netcoreapp3.1\ProductTest.csproj.CopyComplete
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProductsModule\ProductTest\obj\Debug\netcoreapp3.1\ProductTest.genruntimeconfig.cache

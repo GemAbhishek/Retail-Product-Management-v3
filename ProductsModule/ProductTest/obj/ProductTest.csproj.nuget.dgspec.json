@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\visual studio\\CTS MFPE Project V1\\Retail Product Management\\ProductsModule\\ProductTest\\ProductTest.csproj": {}
+  },
+  "projects": {
+    "G:\\visual studio\\CTS MFPE Project V1\\Retail Product Management\\ProductsModule\\ProductTest\\ProductTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\visual studio\\CTS MFPE Project V1\\Retail Product Management\\ProductsModule\\ProductTest\\ProductTest.csproj",
+        "projectName": "ProductTest",
+        "projectPath": "G:\\visual studio\\CTS MFPE Project V1\\Retail Product Management\\ProductsModule\\ProductTest\\ProductTest.csproj",
+        "packagesPath": "C:\\Users\\ABHISHEK\\.nuget\\packages\\",
+        "outputPath": "G:\\visual studio\\CTS MFPE Project V1\\Retail Product Management\\ProductsModule\\ProductTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ABHISHEK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "G:\\visual studio\\CTS MFPE Project V1\\Retail Product Management\\ProductsModule\\Product\\Product.csproj": {
+                "projectPath": "G:\\visual studio\\CTS MFPE Project V1\\Retail Product Management\\ProductsModule\\Product\\Product.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.5, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\visual studio\\CTS MFPE Project V1\\Retail Product Management\\ProductsModule\\Product\\Product.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\visual studio\\CTS MFPE Project V1\\Retail Product Management\\ProductsModule\\Product\\Product.csproj",
+        "projectName": "Product",
+        "projectPath": "G:\\visual studio\\CTS MFPE Project V1\\Retail Product Management\\ProductsModule\\Product\\Product.csproj",
+        "packagesPath": "C:\\Users\\ABHISHEK\\.nuget\\packages\\",
+        "outputPath": "G:\\visual studio\\CTS MFPE Project V1\\Retail Product Management\\ProductsModule\\Product\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ABHISHEK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
