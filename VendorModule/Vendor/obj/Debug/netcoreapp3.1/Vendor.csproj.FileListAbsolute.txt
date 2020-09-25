@@ -1,0 +1,82 @@
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\appsettings.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.csprojAssemblyReference.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.AssemblyInfoInputs.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.AssemblyInfo.cs
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.RazorTargetAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\staticwebassets\Vendor.StaticWebAssets.Manifest.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\staticwebassets\Vendor.StaticWebAssets.xml
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\Vendor.exe
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\Vendor.deps.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\Vendor.runtimeconfig.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\Vendor.runtimeconfig.dev.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\Vendor.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\bin\Debug\netcoreapp3.1\Vendor.pdb
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.csproj.CoreCompileInputs.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.MvcApplicationPartsAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.pdb
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\VendorModule\Vendor\obj\Debug\netcoreapp3.1\Vendor.genruntimeconfig.cache
+C:\Users\user\Desktop\New folder\Vendor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\New folder\Vendor\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\New folder\Vendor\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\Desktop\New folder\Vendor\bin\Debug\netcoreapp3.1\Vendor.exe
+C:\Users\user\Desktop\New folder\Vendor\bin\Debug\netcoreapp3.1\Vendor.deps.json
+C:\Users\user\Desktop\New folder\Vendor\bin\Debug\netcoreapp3.1\Vendor.runtimeconfig.json
+C:\Users\user\Desktop\New folder\Vendor\bin\Debug\netcoreapp3.1\Vendor.runtimeconfig.dev.json
+C:\Users\user\Desktop\New folder\Vendor\bin\Debug\netcoreapp3.1\Vendor.dll
+C:\Users\user\Desktop\New folder\Vendor\bin\Debug\netcoreapp3.1\Vendor.pdb
+C:\Users\user\Desktop\New folder\Vendor\obj\Debug\netcoreapp3.1\Vendor.csprojAssemblyReference.cache
+C:\Users\user\Desktop\New folder\Vendor\obj\Debug\netcoreapp3.1\Vendor.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder\Vendor\obj\Debug\netcoreapp3.1\Vendor.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder\Vendor\obj\Debug\netcoreapp3.1\Vendor.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\New folder\Vendor\obj\Debug\netcoreapp3.1\staticwebassets\Vendor.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\New folder\Vendor\obj\Debug\netcoreapp3.1\staticwebassets\Vendor.StaticWebAssets.xml
+C:\Users\user\Desktop\New folder\Vendor\obj\Debug\netcoreapp3.1\Vendor.dll
+C:\Users\user\Desktop\New folder\Vendor\obj\Debug\netcoreapp3.1\Vendor.pdb
+C:\Users\user\Desktop\New folder\Vendor\obj\Debug\netcoreapp3.1\Vendor.genruntimeconfig.cache
+C:\Users\user\Desktop\New folder\Vendor\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\user\Desktop\New folder\Vendor\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\user\Desktop\New folder\Vendor\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\New folder\Vendor\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\New folder\Vendor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\New folder\Vendor\obj\Debug\netcoreapp3.1\Vendor.csproj.CopyComplete
+C:\Users\user\Desktop\New folder\Vendor\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\New folder\Vendor\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\New folder\Vendor\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\New folder\Vendor\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\New folder\Vendor\obj\Debug\netcoreapp3.1\Vendor.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder\Vendor\obj\Debug\netcoreapp3.1\Vendor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\New folder\Vendor\obj\Debug\netcoreapp3.1\Vendor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\retail_m\Vendor\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\user\Desktop\retail_m\Vendor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\retail_m\Vendor\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\retail_m\Vendor\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\Desktop\retail_m\Vendor\bin\Debug\netcoreapp3.1\Vendor.exe
+C:\Users\user\Desktop\retail_m\Vendor\bin\Debug\netcoreapp3.1\Vendor.deps.json
+C:\Users\user\Desktop\retail_m\Vendor\bin\Debug\netcoreapp3.1\Vendor.runtimeconfig.json
+C:\Users\user\Desktop\retail_m\Vendor\bin\Debug\netcoreapp3.1\Vendor.runtimeconfig.dev.json
+C:\Users\user\Desktop\retail_m\Vendor\bin\Debug\netcoreapp3.1\Vendor.dll
+C:\Users\user\Desktop\retail_m\Vendor\bin\Debug\netcoreapp3.1\Vendor.pdb
+C:\Users\user\Desktop\retail_m\Vendor\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\user\Desktop\retail_m\Vendor\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\retail_m\Vendor\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\retail_m\Vendor\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\retail_m\Vendor\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\retail_m\Vendor\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\retail_m\Vendor\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\retail_m\Vendor\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\retail_m\Vendor\obj\Debug\netcoreapp3.1\Vendor.csprojAssemblyReference.cache
+C:\Users\user\Desktop\retail_m\Vendor\obj\Debug\netcoreapp3.1\Vendor.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\retail_m\Vendor\obj\Debug\netcoreapp3.1\Vendor.AssemblyInfo.cs
+C:\Users\user\Desktop\retail_m\Vendor\obj\Debug\netcoreapp3.1\Vendor.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\retail_m\Vendor\obj\Debug\netcoreapp3.1\Vendor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\retail_m\Vendor\obj\Debug\netcoreapp3.1\Vendor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\retail_m\Vendor\obj\Debug\netcoreapp3.1\Vendor.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\retail_m\Vendor\obj\Debug\netcoreapp3.1\Vendor.csproj.CopyComplete
+C:\Users\user\Desktop\retail_m\Vendor\obj\Debug\netcoreapp3.1\staticwebassets\Vendor.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\retail_m\Vendor\obj\Debug\netcoreapp3.1\staticwebassets\Vendor.StaticWebAssets.xml
+C:\Users\user\Desktop\retail_m\Vendor\obj\Debug\netcoreapp3.1\Vendor.dll
+C:\Users\user\Desktop\retail_m\Vendor\obj\Debug\netcoreapp3.1\Vendor.pdb
+C:\Users\user\Desktop\retail_m\Vendor\obj\Debug\netcoreapp3.1\Vendor.genruntimeconfig.cache
