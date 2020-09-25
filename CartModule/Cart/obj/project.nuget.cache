@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JDboQGmbiECrJ2rWNy5tpEl3Gms//4joZcxgdyDrCZlZJZkPBMoX4c3yFI7CuNr03rA4saYhutEFJfVlbsNqxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ascha\\source\\repos\\CartModule\\Cart\\Cart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ascha\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\ascha\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ascha\\source\\repos\\CartModule\\CartTesting\\CartTesting.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ascha\\source\\repos\\CartModule\\CartTesting\\CartTesting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ascha\\source\\repos\\CartModule\\CartTesting\\CartTesting.csproj",
+        "projectName": "CartTesting",
+        "projectPath": "C:\\Users\\ascha\\source\\repos\\CartModule\\CartTesting\\CartTesting.csproj",
+        "packagesPath": "C:\\Users\\ascha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ascha\\source\\repos\\CartModule\\CartTesting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ascha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\ascha\\source\\repos\\CartModule\\Cart\\Cart.csproj": {
+                "projectPath": "C:\\Users\\ascha\\source\\repos\\CartModule\\Cart\\Cart.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.5, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ascha\\source\\repos\\CartModule\\Cart\\Cart.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ascha\\source\\repos\\CartModule\\Cart\\Cart.csproj",
+        "projectName": "Cart",
+        "projectPath": "C:\\Users\\ascha\\source\\repos\\CartModule\\Cart\\Cart.csproj",
+        "packagesPath": "C:\\Users\\ascha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ascha\\source\\repos\\CartModule\\Cart\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ascha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
