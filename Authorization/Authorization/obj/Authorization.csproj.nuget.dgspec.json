@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\visual studio\\CTS MFPE Project V1\\Retail Product Management\\Authorization\\Authorization\\Authorization.csproj": {}
+    "G:\\visual studio\\CTS MFPE Project V3\\Retail Product Management\\Authorization\\Authorization\\Authorization.csproj": {}
   },
   "projects": {
-    "G:\\visual studio\\CTS MFPE Project V1\\Retail Product Management\\Authorization\\Authorization\\Authorization.csproj": {
+    "G:\\visual studio\\CTS MFPE Project V3\\Retail Product Management\\Authorization\\Authorization\\Authorization.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\visual studio\\CTS MFPE Project V1\\Retail Product Management\\Authorization\\Authorization\\Authorization.csproj",
+        "projectUniqueName": "G:\\visual studio\\CTS MFPE Project V3\\Retail Product Management\\Authorization\\Authorization\\Authorization.csproj",
         "projectName": "Authorization",
-        "projectPath": "G:\\visual studio\\CTS MFPE Project V1\\Retail Product Management\\Authorization\\Authorization\\Authorization.csproj",
+        "projectPath": "G:\\visual studio\\CTS MFPE Project V3\\Retail Product Management\\Authorization\\Authorization\\Authorization.csproj",
         "packagesPath": "C:\\Users\\ABHISHEK\\.nuget\\packages\\",
-        "outputPath": "G:\\visual studio\\CTS MFPE Project V1\\Retail Product Management\\Authorization\\Authorization\\obj\\",
+        "outputPath": "G:\\visual studio\\CTS MFPE Project V3\\Retail Product Management\\Authorization\\Authorization\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ABHISHEK\\AppData\\Roaming\\NuGet\\NuGet.Config",

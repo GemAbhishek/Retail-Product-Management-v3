@@ -26,7 +26,7 @@ namespace EComPortal.Controllers
         {
             ProductItem product = new ProductItem();
 
-            string token = TokenInfo.StringToken;
+            string token = HttpContext.Request.Cookies["Token"];
             client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
 
             HttpResponseMessage response;

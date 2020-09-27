@@ -20,7 +20,7 @@ namespace EComPortal.Controllers
         }
         public IActionResult Index()
         {
-            string token = TokenInfo.StringToken;           
+            string token = HttpContext.Request.Cookies["Token"];
             client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
 
             HttpResponseMessage response;

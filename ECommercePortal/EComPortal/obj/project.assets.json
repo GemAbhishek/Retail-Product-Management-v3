@@ -6278,11 +6278,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\visual studio\\CTS MFPE Project V1\\Retail Product Management\\ECommercePortal\\EComPortal\\EComPortal.csproj",
+      "projectUniqueName": "G:\\visual studio\\CTS MFPE Project V3\\Retail Product Management\\ECommercePortal\\EComPortal\\EComPortal.csproj",
       "projectName": "EComPortal",
-      "projectPath": "G:\\visual studio\\CTS MFPE Project V1\\Retail Product Management\\ECommercePortal\\EComPortal\\EComPortal.csproj",
+      "projectPath": "G:\\visual studio\\CTS MFPE Project V3\\Retail Product Management\\ECommercePortal\\EComPortal\\EComPortal.csproj",
       "packagesPath": "C:\\Users\\ABHISHEK\\.nuget\\packages\\",
-      "outputPath": "G:\\visual studio\\CTS MFPE Project V1\\Retail Product Management\\ECommercePortal\\EComPortal\\obj\\",
+      "outputPath": "G:\\visual studio\\CTS MFPE Project V3\\Retail Product Management\\ECommercePortal\\EComPortal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ABHISHEK\\AppData\\Roaming\\NuGet\\NuGet.Config",

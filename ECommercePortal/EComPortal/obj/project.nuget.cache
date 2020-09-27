@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k5QB9XmDSOCSr/iNLRnmksnnnVadO2vq3+d90n6pdcMqMtddXUY2o/GunUv/U88tCdyRqUxusN86dwyyWLT/hg==",
+  "dgSpecHash": "qK/NcpiHCjNyuYOvg3mBeqDhDRoy9IoxRC41Rl3BMCGcQd58Jb90o3NWDhKBcHncj6xugnrdPnYJpbp1glef4A==",
   "success": true,
-  "projectFilePath": "G:\\visual studio\\CTS MFPE Project V1\\Retail Product Management\\ECommercePortal\\EComPortal\\EComPortal.csproj",
+  "projectFilePath": "G:\\visual studio\\CTS MFPE Project V3\\Retail Product Management\\ECommercePortal\\EComPortal\\EComPortal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ABHISHEK\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\ABHISHEK\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.8\\microsoft.aspnetcore.mvc.razor.extensions.3.1.8.nupkg.sha512",

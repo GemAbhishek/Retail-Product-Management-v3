@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vc2gVmGtHxt5ePpAWcY1yH7K/eQxDT1YgSBRUISDtdMHaHTIskxmFv/0PnLZoAkkeugD38S1Jha3G5mweEwqVw==",
+  "dgSpecHash": "gfuGUkwBNpA8r+QA7fBfsaMpMDsEvCYTVS5wtqtIi1/KixeVxDlIp6Gf88dst4ptcnp4bO7m+OdBYDomwtIDgg==",
   "success": true,
-  "projectFilePath": "G:\\visual studio\\CTS MFPE Project V1\\Retail Product Management\\Authorization\\Authorization\\Authorization.csproj",
+  "projectFilePath": "G:\\visual studio\\CTS MFPE Project V3\\Retail Product Management\\Authorization\\Authorization\\Authorization.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ABHISHEK\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.8\\microsoft.aspnetcore.authentication.jwtbearer.3.1.8.nupkg.sha512",
     "C:\\Users\\ABHISHEK\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\NUnitTestProject1\\NUnitTestProject1.csproj": {}
+    "G:\\visual studio\\CTS MFPE Project V3\\Retail Product Management\\ProceedToBuyModule\\NUnitTestProject1\\NUnitTestProject1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\NUnitTestProject1\\NUnitTestProject1.csproj": {
+    "G:\\visual studio\\CTS MFPE Project V3\\Retail Product Management\\ProceedToBuyModule\\NUnitTestProject1\\NUnitTestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\NUnitTestProject1\\NUnitTestProject1.csproj",
+        "projectUniqueName": "G:\\visual studio\\CTS MFPE Project V3\\Retail Product Management\\ProceedToBuyModule\\NUnitTestProject1\\NUnitTestProject1.csproj",
         "projectName": "NUnitTestProject1",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\NUnitTestProject1\\NUnitTestProject1.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\NUnitTestProject1\\obj\\",
+        "projectPath": "G:\\visual studio\\CTS MFPE Project V3\\Retail Product Management\\ProceedToBuyModule\\NUnitTestProject1\\NUnitTestProject1.csproj",
+        "packagesPath": "C:\\Users\\ABHISHEK\\.nuget\\packages\\",
+        "outputPath": "G:\\visual studio\\CTS MFPE Project V3\\Retail Product Management\\ProceedToBuyModule\\NUnitTestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ABHISHEK\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\HP\\source\\repos\\ProceedToBuy\\ProceedToBuy.csproj": {
-                "projectPath": "C:\\Users\\HP\\source\\repos\\ProceedToBuy\\ProceedToBuy.csproj"
+              "G:\\visual studio\\CTS MFPE Project V3\\Retail Product Management\\ProceedToBuyModule\\ProceedToBuy\\ProceedToBuy.csproj": {
+                "projectPath": "G:\\visual studio\\CTS MFPE Project V3\\Retail Product Management\\ProceedToBuyModule\\ProceedToBuy\\ProceedToBuy.csproj"
               }
             }
           }
@@ -93,21 +93,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\HP\\source\\repos\\ProceedToBuy\\ProceedToBuy.csproj": {
+    "G:\\visual studio\\CTS MFPE Project V3\\Retail Product Management\\ProceedToBuyModule\\ProceedToBuy\\ProceedToBuy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\ProceedToBuy\\ProceedToBuy.csproj",
+        "projectUniqueName": "G:\\visual studio\\CTS MFPE Project V3\\Retail Product Management\\ProceedToBuyModule\\ProceedToBuy\\ProceedToBuy.csproj",
         "projectName": "ProceedToBuy",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\ProceedToBuy\\ProceedToBuy.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\ProceedToBuy\\obj\\",
+        "projectPath": "G:\\visual studio\\CTS MFPE Project V3\\Retail Product Management\\ProceedToBuyModule\\ProceedToBuy\\ProceedToBuy.csproj",
+        "packagesPath": "C:\\Users\\ABHISHEK\\.nuget\\packages\\",
+        "outputPath": "G:\\visual studio\\CTS MFPE Project V3\\Retail Product Management\\ProceedToBuyModule\\ProceedToBuy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ABHISHEK\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -182,7 +182,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

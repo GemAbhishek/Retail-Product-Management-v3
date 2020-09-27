@@ -26,10 +26,10 @@ namespace EComPortal.Controllers
 
         public IActionResult Index()
         {
-            string Var = TokenInfo.UserName;
+            string Var = HttpContext.Request.Cookies["UserId"];
             List<CartItem> ls = new List<CartItem>();
 
-            string token = TokenInfo.StringToken;
+            string token = HttpContext.Request.Cookies["Token"];
             client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
 
             HttpResponseMessage response = null;
@@ -55,7 +55,7 @@ namespace EComPortal.Controllers
         {
             ProductItem product = new ProductItem();
 
-            string token = TokenInfo.StringToken;
+            string token = HttpContext.Request.Cookies["Token"];
             client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
             HttpResponseMessage responseProduct;
             try
@@ -79,7 +79,7 @@ namespace EComPortal.Controllers
                 return RedirectToAction("Error");
             }
 
-            string Var = TokenInfo.UserName;
+            string Var = HttpContext.Request.Cookies["UserId"];
 
             string data = JsonConvert.SerializeObject(product);
             StringContent content = new StringContent(data, Encoding.UTF8, "application/json");
@@ -104,7 +104,7 @@ namespace EComPortal.Controllers
 
         public IActionResult Delete(int id)
         {
-            string token = TokenInfo.StringToken;
+            string token = HttpContext.Request.Cookies["Token"];
             client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
 
             HttpResponseMessage response = null;

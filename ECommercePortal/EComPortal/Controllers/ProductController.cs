@@ -27,7 +27,7 @@ namespace EComPortal.Controllers
         {
             List<ProductItem> ls = new List<ProductItem>();
 
-            string token = TokenInfo.StringToken;
+            string token = HttpContext.Request.Cookies["Token"];
             client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
             HttpResponseMessage response;
             try
@@ -60,7 +60,7 @@ namespace EComPortal.Controllers
         {
             ProductItem product = new ProductItem();
 
-            string token = TokenInfo.StringToken;
+            string token = HttpContext.Request.Cookies["Token"];
             client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
             HttpResponseMessage response;
             try
@@ -78,7 +78,8 @@ namespace EComPortal.Controllers
                 product = JsonConvert.DeserializeObject<ProductItem>(data);
                 return View(product);
             }
-            return RedirectToAction("Error");
+            ViewBag.Error = "Product not found!";
+            return View("Search");
 
         }
 
@@ -88,7 +89,7 @@ namespace EComPortal.Controllers
         {
             ProductItem product = new ProductItem();
 
-            string token = TokenInfo.StringToken;
+            string token = HttpContext.Request.Cookies["Token"];
             client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
             HttpResponseMessage response;
             try
@@ -111,7 +112,7 @@ namespace EComPortal.Controllers
         [HttpPost]
         public ActionResult Edit(ProductItem product)
         {
-            string token = TokenInfo.StringToken;
+            string token = HttpContext.Request.Cookies["Token"];
             client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
 
             string data = JsonConvert.SerializeObject(product);

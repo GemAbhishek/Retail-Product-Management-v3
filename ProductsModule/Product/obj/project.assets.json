@@ -2828,11 +2828,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\visual studio\\CTS MFPE Project V1\\Retail Product Management\\ProductsModule\\Product\\Product.csproj",
+      "projectUniqueName": "G:\\visual studio\\CTS MFPE Project V3\\Retail Product Management\\ProductsModule\\Product\\Product.csproj",
       "projectName": "Product",
-      "projectPath": "G:\\visual studio\\CTS MFPE Project V1\\Retail Product Management\\ProductsModule\\Product\\Product.csproj",
+      "projectPath": "G:\\visual studio\\CTS MFPE Project V3\\Retail Product Management\\ProductsModule\\Product\\Product.csproj",
       "packagesPath": "C:\\Users\\ABHISHEK\\.nuget\\packages\\",
-      "outputPath": "G:\\visual studio\\CTS MFPE Project V1\\Retail Product Management\\ProductsModule\\Product\\obj\\",
+      "outputPath": "G:\\visual studio\\CTS MFPE Project V3\\Retail Product Management\\ProductsModule\\Product\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ABHISHEK\\AppData\\Roaming\\NuGet\\NuGet.Config",

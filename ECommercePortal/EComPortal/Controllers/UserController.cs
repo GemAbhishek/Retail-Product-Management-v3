@@ -43,8 +43,8 @@ namespace EComPortal.Controllers
 
             if (token!="error")
             {
-                TokenInfo.StringToken = token;
-                TokenInfo.UserName = user.Username;
+                HttpContext.Response.Cookies.Append("Token", token);
+                HttpContext.Response.Cookies.Append("UserId", user.Username);
                 //Session["log"] = Logout;
                 return RedirectToAction("SeeProduct");
 
@@ -52,14 +52,15 @@ namespace EComPortal.Controllers
 
             //Session["log"] = Login;
 
-            TokenInfo.StringToken = "";
-            TokenInfo.UserName = "";
-            return RedirectToAction("Error");
+            HttpContext.Response.Cookies.Delete("Token");
+            HttpContext.Response.Cookies.Delete("UserId");
+            ViewBag.Error = "Invalid UserName or password";
+            return View("Login");
         }
         public IActionResult Logout()
         {
-            TokenInfo.StringToken = "";
-            TokenInfo.UserName = "";
+            HttpContext.Response.Cookies.Delete("Token");
+            HttpContext.Response.Cookies.Delete("UserId");
             return RedirectToAction("Login");
         }
 
