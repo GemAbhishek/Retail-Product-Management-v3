@@ -8,6 +8,7 @@ using Authorization.Model.Product;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
 
 namespace Authorization.Controllers
@@ -18,13 +19,14 @@ namespace Authorization.Controllers
 
     public class CartController : ControllerBase
     {
-        Uri baseAddress = new Uri("https://localhost:44385");
+        IConfiguration configuration;
         HttpClient client;
 
-        public CartController()
+        public CartController(IConfiguration config)
         {
+            configuration = config;
             client = new HttpClient();
-            client.BaseAddress = baseAddress;
+            client.BaseAddress = new Uri(configuration["Cart"]);
         }
 
         [HttpGet("{Var}")]

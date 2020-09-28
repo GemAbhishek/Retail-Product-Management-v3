@@ -8,6 +8,7 @@ using Authorization.Model.Product;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
 
 namespace Authorization.Controllers
@@ -17,13 +18,14 @@ namespace Authorization.Controllers
     [Authorize]
     public class ProductController : ControllerBase
     {
-        Uri baseAddress = new Uri("https://localhost:44321");
+        IConfiguration configuration;
         HttpClient client;
 
-        public ProductController()
+        public ProductController(IConfiguration config)
         {
+            configuration = config;
             client = new HttpClient();
-            client.BaseAddress = baseAddress;
+            client.BaseAddress = new Uri(configuration["Product"]);
         }
 
         [HttpGet]

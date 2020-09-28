@@ -7,18 +7,20 @@ using System.Text;
 using System.Threading.Tasks;
 using EComPortal.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
 
 namespace EComPortal.Controllers
 {
     public class UserController : Controller
     {
-        Uri baseAddress = new Uri("https://localhost:44388/api");
         HttpClient client;
-        public UserController()
+        IConfiguration configuration;
+        public UserController(IConfiguration config)
         {
+            configuration = config;
             client = new HttpClient();
-            client.BaseAddress = baseAddress;
+            client.BaseAddress = new Uri(configuration["Authorize"]);
         }
         public IActionResult Login()
         {
@@ -31,7 +33,7 @@ namespace EComPortal.Controllers
             HttpResponseMessage response;
             try
             {
-                response = client.PostAsync(client.BaseAddress + "/login", data).Result;
+                response = client.PostAsync(client.BaseAddress + "api/login", data).Result;
             }
             catch
             {

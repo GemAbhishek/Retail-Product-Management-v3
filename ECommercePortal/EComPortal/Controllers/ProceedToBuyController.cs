@@ -7,19 +7,20 @@ using System.Threading.Tasks;
 using EComPortal.Models;
 using EComPortal.Models.Product;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
 
 namespace EComPortal.Controllers
 {
     public class ProceedToBuyController : Controller
     {
-        Uri baseAddress = new Uri("https://localhost:44388");
         HttpClient client;
-
-        public ProceedToBuyController()
+        IConfiguration configuration;
+        public ProceedToBuyController(IConfiguration config)
         {
+            configuration = config;
             client = new HttpClient();
-            client.BaseAddress = baseAddress;
+            client.BaseAddress = new Uri(configuration["Authorize"]);
         }
 
         public ActionResult Details(string id)

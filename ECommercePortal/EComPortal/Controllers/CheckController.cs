@@ -6,17 +6,19 @@ using System.Net.Http.Headers;
 using System.Threading.Tasks;
 using EComPortal.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 
 namespace EComPortal.Controllers
 {
     public class CheckController : Controller
     {
-        Uri baseAddress = new Uri("https://localhost:44388/api");
         HttpClient client;
-        public CheckController()
+        IConfiguration configuration;
+        public CheckController(IConfiguration config)
         {
+            configuration = config;
             client = new HttpClient();
-            client.BaseAddress = baseAddress;
+            client.BaseAddress = new Uri(configuration["Authorize"]);
         }
         public IActionResult Index()
         {
