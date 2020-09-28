@@ -1,0 +1,61 @@
+﻿@model IEnumerable<EComPortal.Models.Wishlist.WishlistItem>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>WishList</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th hidden>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductName)
+            </th>
+            <th hidden>
+                @Html.DisplayNameFor(model => model.ProductId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td hidden>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td hidden>
+                @Html.DisplayFor(modelItem => item.ProductId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                <a class="btn btn-info" asp-controller="Wishlist" asp-action="Delete" asp-route-id="@item.Id.ToString()">Delete</a>
+                <a class="btn btn-outline-success" asp-area="" asp-controller="ProceedToBuy" asp-action="Details" asp-route-id="@item.Id.ToString()">Proceed To Buy</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

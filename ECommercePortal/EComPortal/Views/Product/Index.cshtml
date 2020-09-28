@@ -64,8 +64,8 @@
             </td>
             <td>
                 <a class="btn btn-outline-info" asp-area="" asp-controller="Product" asp-action="Edit" asp-route-id="@item.Id">Rate</a>
-                <a class="btn btn-outline-success" asp-area="" asp-controller="ProceedToBuy" asp-action="Details" asp-route-id="@item.Id.ToString()">Proceed To Buy</a>
-                @*@Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })*@
+                <a class="btn btn-outline-success" asp-area="" asp-controller="Wishlist" asp-action="AddItem" asp-route-id="@item.Id.ToString()">Add To WishList</a>
+                <a class="btn btn-success" asp-area="" asp-controller="ProceedToBuy" asp-action="Details" asp-route-id="@item.Id.ToString()">Proceed To Buy</a>
             </td>
         </tr>
 }
