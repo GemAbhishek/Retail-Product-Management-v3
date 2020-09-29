@@ -58,10 +58,8 @@
         </dd>
     </dl>
 </div>
-<div  >
-    <a class="btn btn-success" asp-controller="ProceedToBuy" asp-action="Details" asp-route-id="@Model.Id.ToString()">Proceed To Buy</a>
-</div>
-<br />
 <div>
-    <a asp-action="Index">Back to List</a>
+    <a style="margin-bottom:5px" class="btn btn-success" asp-controller="ProceedToBuy" asp-action="Details" asp-route-id="@Model.Id.ToString()">Proceed To Buy</a>
+    <a style="margin-bottom:5px" class="btn btn-primary" asp-area="" asp-controller="Wishlist" asp-action="AddItem" asp-route-id="@Model.Id.ToString()">Add To Wishlist</a>
+    <a style="margin-bottom:5px" class="btn btn-info" asp-action="Index">Back to List</a>
 </div>

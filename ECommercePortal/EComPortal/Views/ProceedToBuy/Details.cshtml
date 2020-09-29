@@ -57,7 +57,7 @@
 <div>
     @*adddddeeddd  add to cart*@
     <p>If Product is available then only Added to Cart</p>
-    <a class="btn btn-success" asp-controller="Cart" asp-action="Post" asp-route-id="@Model.Id.ToString()">Add To Cart</a>
-    <br />
-    <a asp-controller="Product" asp-action="Index">Back to List</a>
+    <a style="margin-bottom:5px" class="btn btn-success" asp-controller="Cart" asp-action="Post" asp-route-id="@Model.Id.ToString()">Add To Cart</a>
+    <a style="margin-bottom:5px" class="btn btn-primary" asp-area="" asp-controller="Wishlist" asp-action="AddItem" asp-route-id="@Model.Id.ToString()">Add To Wishlist</a> 
+    <a style="margin-bottom:5px" class="btn btn-info" asp-controller="Product" asp-action="Index">Back to List</a>
 </div>

@@ -53,7 +53,7 @@
             </td>
             <td>
                 <a class="btn btn-info" asp-controller="Wishlist" asp-action="Delete" asp-route-id="@item.Id.ToString()">Delete</a>
-                <a class="btn btn-outline-success" asp-area="" asp-controller="ProceedToBuy" asp-action="Details" asp-route-id="@item.Id.ToString()">Proceed To Buy</a>
+                <a class="btn btn-outline-success" asp-area="" asp-controller="ProceedToBuy" asp-action="Details" asp-route-id="@item.ProductId.ToString()">Proceed To Buy</a>
             </td>
         </tr>
 }
