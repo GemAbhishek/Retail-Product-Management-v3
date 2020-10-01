@@ -16,10 +16,14 @@ namespace EComPortal.Controllers
 {
     public class CartController : Controller
     {
+        readonly log4net.ILog _log4net;
+
         HttpClient client;
         IConfiguration configuration;
         public CartController(IConfiguration config)
         {
+            _log4net = log4net.LogManager.GetLogger(typeof(CartController));
+
             configuration = config;
             client = new HttpClient();
             client.BaseAddress = new Uri(configuration["Authorize"]);
@@ -27,6 +31,8 @@ namespace EComPortal.Controllers
 
         public IActionResult Index()
         {
+            _log4net.Info(" Index--Get All ");
+
             string Var = HttpContext.Request.Cookies["UserId"];
             List<CartItem> ls = new List<CartItem>();
 
@@ -54,6 +60,8 @@ namespace EComPortal.Controllers
 
         public IActionResult Post(string id)
         {
+            _log4net.Info(" Add to cart ");
+
             ProductItem product = new ProductItem();
 
             string token = HttpContext.Request.Cookies["Token"];
@@ -105,6 +113,8 @@ namespace EComPortal.Controllers
 
         public IActionResult Delete(int id)
         {
+            _log4net.Info(" Delete from cart--id "+id);
+
             string token = HttpContext.Request.Cookies["Token"];
             client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
 
@@ -124,6 +134,8 @@ namespace EComPortal.Controllers
 
         public ActionResult Error()
         {
+            _log4net.Info(" Error View ");
+
             return View();
         }
 

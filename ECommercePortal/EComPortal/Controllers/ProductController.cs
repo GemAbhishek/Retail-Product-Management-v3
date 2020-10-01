@@ -15,10 +15,12 @@ namespace EComPortal.Controllers
 {
     public class ProductController : Controller
     {
+        readonly log4net.ILog _log4net;
         HttpClient client;
         IConfiguration configuration;
         public ProductController(IConfiguration config)
         {
+            _log4net = log4net.LogManager.GetLogger(typeof(ProductController));
             configuration = config;
             client = new HttpClient();
             client.BaseAddress = new Uri(configuration["Authorize"]);
@@ -26,6 +28,7 @@ namespace EComPortal.Controllers
 
         public IActionResult Index()
         {
+            _log4net.Info(" Index--Get All ");
             List<ProductItem> ls = new List<ProductItem>();
 
             string token = HttpContext.Request.Cookies["Token"];
@@ -33,6 +36,7 @@ namespace EComPortal.Controllers
             HttpResponseMessage response;
             try
             {
+                _log4net.Info(" Http GET request--Get All ");
                 response = client.GetAsync(client.BaseAddress + "api/product").Result;
             }
             catch
@@ -50,6 +54,7 @@ namespace EComPortal.Controllers
         }
         public ActionResult Search()
         {
+            _log4net.Info(" Search Action called ");
             return View();
         }
         [HttpPost]
@@ -59,6 +64,8 @@ namespace EComPortal.Controllers
         }
         public ActionResult Details(string id)
         {
+            _log4net.Info(" Get detail by id -- "+id);
+
             ProductItem product = new ProductItem();
 
             string token = HttpContext.Request.Cookies["Token"];
@@ -88,6 +95,8 @@ namespace EComPortal.Controllers
 
         public ActionResult Edit(int id)
         {
+            _log4net.Info(" Edit detail by id -- " + id);
+
             ProductItem product = new ProductItem();
 
             string token = HttpContext.Request.Cookies["Token"];
@@ -113,6 +122,8 @@ namespace EComPortal.Controllers
         [HttpPost]
         public ActionResult Edit(ProductItem product)
         {
+            _log4net.Info(" Post detail Action ");
+
             string token = HttpContext.Request.Cookies["Token"];
             client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
 
@@ -134,6 +145,8 @@ namespace EComPortal.Controllers
         }
         public ActionResult Error()
         {
+            _log4net.Info(" Error View ");
+
             return View();
         }
     }

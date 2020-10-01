@@ -930,7 +930,10 @@ G:\visual studio\CTS MFPE Project V3\Retail Product Management\ECommercePortal\E
 G:\visual studio\CTS MFPE Project V3\Retail Product Management\ECommercePortal\EComPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 G:\visual studio\CTS MFPE Project V3\Retail Product Management\ECommercePortal\EComPortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 G:\visual studio\CTS MFPE Project V3\Retail Product Management\ECommercePortal\EComPortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\ECommercePortal\EComPortal\obj\Debug\netcoreapp3.1\Razor\Views\Wishlist\Index.cshtml.g.cs
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\ECommercePortal\EComPortal\bin\Debug\netcoreapp3.1\log4net.config
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\ECommercePortal\EComPortal\bin\Debug\netcoreapp3.1\log4net.dll
+G:\visual studio\CTS MFPE Project V3\Retail Product Management\ECommercePortal\EComPortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
 G:\visual studio\CTS MFPE Project V3\Retail Product Management\ECommercePortal\EComPortal\obj\Debug\netcoreapp3.1\EComPortal.csproj.CoreCompileInputs.cache
 G:\visual studio\CTS MFPE Project V3\Retail Product Management\ECommercePortal\EComPortal\obj\Debug\netcoreapp3.1\EComPortal.MvcApplicationPartsAssemblyInfo.cs
 G:\visual studio\CTS MFPE Project V3\Retail Product Management\ECommercePortal\EComPortal\obj\Debug\netcoreapp3.1\EComPortal.MvcApplicationPartsAssemblyInfo.cache
-G:\visual studio\CTS MFPE Project V3\Retail Product Management\ECommercePortal\EComPortal\obj\Debug\netcoreapp3.1\Razor\Views\Wishlist\Index.cshtml.g.cs

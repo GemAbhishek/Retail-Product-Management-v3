@@ -14,10 +14,14 @@ namespace EComPortal.Controllers
 {
     public class ProceedToBuyController : Controller
     {
+        readonly log4net.ILog _log4net;
+
         HttpClient client;
         IConfiguration configuration;
         public ProceedToBuyController(IConfiguration config)
         {
+            _log4net = log4net.LogManager.GetLogger(typeof(ProceedToBuyController));
+
             configuration = config;
             client = new HttpClient();
             client.BaseAddress = new Uri(configuration["Authorize"]);
@@ -25,6 +29,8 @@ namespace EComPortal.Controllers
 
         public ActionResult Details(string id)
         {
+            _log4net.Info(" proceed to buy--get product ");
+
             ProductItem product = new ProductItem();
 
             string token = HttpContext.Request.Cookies["Token"];
@@ -52,6 +58,8 @@ namespace EComPortal.Controllers
 
         public ActionResult Error()
         {
+            _log4net.Info(" Error View ");
+
             return View();
         }
     }

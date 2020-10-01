@@ -15,12 +15,16 @@ namespace EComPortal.Controllers
 {
     public class WishlistController : Controller
     {
+        readonly log4net.ILog _log4net;
+
         private readonly ApplicationDbContext _db;
 
         HttpClient client;
         IConfiguration configuration;
         public WishlistController(IConfiguration config, ApplicationDbContext db)
         {
+            _log4net = log4net.LogManager.GetLogger(typeof(WishlistController));
+
             _db = db;
             configuration = config;
             client = new HttpClient();
@@ -29,6 +33,8 @@ namespace EComPortal.Controllers
        
         public IActionResult Index()
         {
+            _log4net.Info(" Index--Get All ");
+
             string user = HttpContext.Request.Cookies["UserId"];
             List<WishlistItem> items = new List<WishlistItem>();
             items = _db.WishlistItems.ToList();
@@ -46,6 +52,8 @@ namespace EComPortal.Controllers
 
         public IActionResult Delete(int id)
         {
+            _log4net.Info(" Delete--id-- " + id);
+
             WishlistItem item = new WishlistItem();
             item =_db.WishlistItems.FirstOrDefault(x => x.Id == id);
             _db.WishlistItems.Remove(item);
@@ -56,6 +64,8 @@ namespace EComPortal.Controllers
 
         public IActionResult AddItem(string id)
         {
+            _log4net.Info(" Add item to Wishlist ");
+
             ProductItem product = new ProductItem();
 
             string token = HttpContext.Request.Cookies["Token"];
